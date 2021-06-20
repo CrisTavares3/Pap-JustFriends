@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "514860117486",
+    "firebase_url": "https://papfinal-eec1b.firebaseio.com",
+    "project_id": "papfinal-eec1b",
+    "storage_bucket": "papfinal-eec1b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:514860117486:android:6e19630a5c6a4e48d9b2ff",
+        "android_client_info": {
+          "package_name": "com.example.papfinal"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "514860117486-6n26esu6rtb51j4jpnaf8q14f4ts82sj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.papfinal",
+            "certificate_hash": "9f0aa9f97b0b8d7e9ad940e5f04c19665dc87214"
+          }
+        },
+        {
+          "client_id": "514860117486-u3aioitqr8da8dlm020edfnbujkgdpt3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDv4JUL5tqjQk4HBFrVtr86nfK1HCzaod4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "514860117486-u3aioitqr8da8dlm020edfnbujkgdpt3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
